@@ -1,0 +1,152 @@
+
+/* *{
+  font-family: "Poppins" !important;
+} */
+.body{
+  font-family: "Poppins" !important;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container{
+  flex: 1 !important;
+}
+
+
+
+.navbar{
+    height: 5rem;
+    background-color: white;
+}
+
+.fa-compass{
+  font-size: 2rem;
+  color: lightcoral;
+}
+
+/* new page */
+.add-btn{
+  border-style: hidden !important;
+  background-color: lightcoral !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+/* footer */
+  footer {
+    position: static;
+    width: 100%;
+    color: #333; /* Dark text for contrast */
+    text-align: center;
+    padding: 5px;
+}
+
+.f-info-links a{
+  text-decoration: none;
+  color: black;
+  margin: 0 .5rem;
+}
+
+.f-info-links a:hover{
+  color: lightcoral;
+  text-decoration: underline;
+  
+}
+
+.f-info-links, .f-info-socials, .f-info-brand{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.f-info-socials i{
+  font-size: 1.2rem;
+  margin: 0 .5rem;
+}
+/* to align footer elements */
+.f-info {
+  text-align: center;
+  display: flex;
+  height: 6rem;
+  background-color: #ebebeb;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: space-evenly;
+}
+
+/* cards */
+
+.listing-card{
+  margin: 1rem;
+  /* border: 1px solid lightgray; */
+  border: none !important;
+  /* border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1); */
+}
+
+.card-img-top{
+  border-radius: 1rem !important;
+  width: 100% !important;
+  object-fit: cover !important;
+}
+
+.card-body{
+  padding: 0 !important;
+}
+
+.card-text p{
+  font-weight: 400 !important;
+}
+
+.listing-link{
+  text-decoration: none;
+}
+
+.card-img-overlay{
+  opacity: 0;
+}
+
+.card-img-overlay:hover{
+  opacity: 0.2;
+  background-color: white;
+}
+
+
+/* show page */
+.show-img{
+  height: 30vh;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 50px; /* Adjust the spacing between buttons */
+}
+
+.buttons-container button {
+  padding: 10px 15px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buttons-container .edit-button {
+  padding: 10px 15px !important;
+  font-size: 20px !important;
+  border: none;
+  border-radius: 5px !important;
+  cursor: pointer;
+  background-color: #ff6666;
+  color: black;
+}
+
+.buttons-container .delete-button {
+  background-color: #ff6666;
+  color: black;
+}
