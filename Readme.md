@@ -19,7 +19,7 @@ A sleek, responsive **Airbnb homepage clone** built using **HTML5, CSS3, and Jav
 ![Homepage](./assets/screenshots/homepage.png)
 
 ### 🛏️ Listing Page
-![Listing Page](./assets/screenshots/listing.png)
+![Listing Page](./assets/screenshots/Listing.png)
 
 ---
 ## 🛠️ Tech Stack
