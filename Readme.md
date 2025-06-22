@@ -60,13 +60,6 @@ Airbnb-Clone/
    cd Airbnb-Clone
    ```
 
-3. **Open in browser**
-
-   * Double-click `index.html`, or
-   * Right-click > Open with Live Server (VS Code)
-
----
-
 ## 📸 Preview
 
 > *(You can replace the placeholder image once you add screenshots)*
