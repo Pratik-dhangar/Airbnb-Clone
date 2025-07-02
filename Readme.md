@@ -85,20 +85,6 @@ Airbnb-Clone/
 
 ---
 
-## ⭐ Support
-
-If you find this project helpful or inspiring, please ⭐ the repo — it really motivates me!
-
----
-
-## 📝 License
-
-This project is licensed for personal and educational use only.
-
-```
-
----
-
 ### ✅ How to use it:
 1. Create a new file in the root of your GitHub repo named `README.md`.
 2. Paste the content above.
